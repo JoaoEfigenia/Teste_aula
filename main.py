@@ -1,4 +1,4 @@
-print("Olá turma do Python!")
-print("Tudo bem!")
-nome: str = input("Qual é o seu nome? ")
-print(f"Olá, {nome}!")
+print("Hi Python Class!")
+print("Everything OK")
+nome: str = input("What is your name? ")
+print(f"Hi, {nome}!")
